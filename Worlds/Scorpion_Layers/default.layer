@@ -1,0 +1,18 @@
+SCR_SpawnPoint : "{0CAE96554C7FEB3D}PrefabsEditable/SpawnPoints/E_SpawnPoint_US_USMC.et" {
+ coords 4951.221 28.25 11935.191
+ angleY -168.466
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "FOB Scorpion"
+ }
+}
+SCR_ChimeraCharacter : "{5BF44F56AF2C84EA}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_AT.et" {
+ components {
+  ActionsManagerComponent "{520EA1D2F659CE02}" {
+   additionalActions {
+    GSRI_SetLoadoutGrenadier "{5DEEA4F45280725C}" {
+    }
+   }
+  }
+ }
+ coords 4941.799 30.201 11939.893
+}

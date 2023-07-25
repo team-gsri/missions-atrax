@@ -1,0 +1,24 @@
+SCR_SpawnPoint : "{0CAE96554C7FEB3D}PrefabsEditable/SpawnPoints/E_SpawnPoint_US_USMC.et" {
+ coords 4949.913 28.281 11940.14
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "FOB"
+ }
+}
+SCR_ChimeraCharacter : "{5BF44F56AF2C84EA}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_AT.et" {
+ components {
+  ActionsManagerComponent "{520EA1D2F659CE02}" {
+   additionalActions {
+    GSRI_SetLoadoutOperatorUserAction "{5DF13DC905C7E3E7}" {
+     ParentContextList {
+      "Chest"
+     }
+     UIInfo UIInfo "{5DF13DC91F42A0C8}" {
+      Name "Take loadout"
+     }
+     CanAggregate 1
+    }
+   }
+  }
+ }
+ coords 4942.543 28.397 11941.932
+}

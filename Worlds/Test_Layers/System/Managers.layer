@@ -1,0 +1,40 @@
+SCR_AIWorld AIWorld_Eden_1 : "{70CCCF16487C927F}Prefabs/AI/SCR_AIWorld_Eden.et" {
+ coords 4940.186 28.486 11975.146
+}
+PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/PerceptionManager.et" {
+ coords 4949.563 28.312 11970.805
+}
+SCR_BaseGameMode GameMode_Plain1 : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
+ components {
+  SCR_GroupsManagerComponent "{5706EC99934496F5}" {
+   Enabled 0
+   m_aGroupFlags {
+   }
+  }
+  SCR_NametagConfigComponent "{571AA9E54FC9210D}" {
+   Enabled 0
+  }
+ }
+ coords 4942.822 28.435 11947.188
+}
+TagManager : "{2FA9E172CAB1857A}Prefabs/MP/Managers/TagManager.et" {
+ coords 4948.639 28.313 11967.82
+}
+SCR_FactionManager FactionManager_Editor1 : "{4A188E44289B9A50}Prefabs/MP/Managers/Factions/FactionManager_Editor.et" {
+ coords 4948.583 28.325 11976.816
+ Factions {
+  SCR_Faction "{5CC8DE37E1FF0F7A}" {
+   m_bIsPlayable 1
+  }
+ }
+ m_bCanChangeFactionsPlayable 0
+}
+HitRegistrationManager HitRegManager1 : "{0EDA3D48791120DD}Prefabs/MP/HitRegManager.et" {
+ coords 4943.269 28.436 11968.684
+}
+SCR_GarbageManager : "{9B883A7D8EBB282A}Prefabs/MP/Managers/GarbageManager.et" {
+ coords 4952.569 28.281 11969.603
+}
+SCR_LoadoutManager : "{B54D08AEA74A5354}Prefabs/MP/Managers/Loadouts/LoadoutManager_Editor.et" {
+ coords 4948.965 30.488 11968.18
+}

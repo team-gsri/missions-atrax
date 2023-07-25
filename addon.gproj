@@ -1,0 +1,21 @@
+GameProject {
+ ID "GSRI_Atrax"
+ GUID "5DE55DB6292F49EA"
+ TITLE "[GSRI] Atrax"
+ Dependencies {
+  "58D0FB3206B6F859" "595F2BF2F44836FB"
+ }
+ Configurations {
+  GameProjectConfig HEADLESS {
+  }
+  GameProjectConfig PC {
+   WorldFile "{000C45EE39B985B4}Worlds/Scorpion.ent"
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+ }
+}

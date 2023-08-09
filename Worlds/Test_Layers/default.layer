@@ -13,7 +13,7 @@ SCR_ChimeraCharacter : "{5BF44F56AF2C84EA}Prefabs/Characters/Factions/BLUFOR/RHS
       "Chest"
      }
      UIInfo UIInfo "{5DF13DC91F42A0C8}" {
-      Name "Take loadout"
+      Name "#GSRI-Test-TakeLoadout"
      }
      CanAggregate 1
     }

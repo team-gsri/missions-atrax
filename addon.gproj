@@ -7,9 +7,123 @@ GameProject {
  }
  Configurations {
   GameProjectConfig HEADLESS {
+   WidgetManagerSettings WidgetManagerSettings "{5E12F0B47B70756C}" {
+    StringTables {
+     StringTableDefinition "{5E12FC03E89439D9}" {
+      StringTableSource "{909051F377CAE111}Language/CustomActions.st"
+      Languages {
+       LanguageDefinition "{5E12FC03EA5E4F01}" {
+        Code "cs_cz"
+        StringTableRuntime "{B7650F546B743BEE}Language/CustomActions.cs_cz.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4FD4}" {
+        Code "de_de"
+        StringTableRuntime "{621B156778D72ACE}Language/CustomActions.de_de.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4FFA}" {
+        Code "en_us"
+        StringTableRuntime "{3CEB9F2C12242FCF}Language/CustomActions.en_us.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4FEA}" {
+        Code "es_es"
+        StringTableRuntime "{F9A7D2A5FC2644D0}Language/CustomActions.es_es.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4F9A}" {
+        Code "fr_fr"
+        StringTableRuntime "{420F27921AA5A7D2}Language/CustomActions.fr_fr.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4F88}" {
+        Code "it_it"
+        StringTableRuntime "{C213A8A6B787242B}Language/CustomActions.it_it.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4FB8}" {
+        Code "ja_jp"
+        StringTableRuntime "{D208153489F61480}Language/CustomActions.ja_jp.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4FAE}" {
+        Code "ko_kr"
+        StringTableRuntime "{72B63D981ADB17BF}Language/CustomActions.ko_kr.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4C5E}" {
+        Code "pl_pl"
+        StringTableRuntime "{2EC79B62A4348BC3}Language/CustomActions.pl_pl.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4C48}" {
+        Code "pt_br"
+        StringTableRuntime "{FBB001AE9FCA4179}Language/CustomActions.pt_br.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4C7C}" {
+        Code "ru_ru"
+        StringTableRuntime "{AEF1150602B3240F}Language/CustomActions.ru_ru.conf"
+       }
+       LanguageDefinition "{5E12FC03EA5E4C66}" {
+        Code "zh_cn"
+        StringTableRuntime "{FE192ECD573D4A47}Language/CustomActions.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
   }
   GameProjectConfig PC {
    WorldFile "{000C45EE39B985B4}Worlds/Scorpion.ent"
+   WidgetManagerSettings WidgetManagerSettings "{AC4BE58770485E02}" {
+    StringTables {
+     StringTableDefinition "{5E12FC05029DA29F}" {
+      StringTableSource "{909051F377CAE111}Language/CustomActions.st"
+      Languages {
+       LanguageDefinition "{5E12FC051C4C40E1}" {
+        Code "cs_cz"
+        StringTableRuntime "{B7650F546B743BEE}Language/CustomActions.cs_cz.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C40B1}" {
+        Code "de_de"
+        StringTableRuntime "{621B156778D72ACE}Language/CustomActions.de_de.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C415A}" {
+        Code "en_us"
+        StringTableRuntime "{3CEB9F2C12242FCF}Language/CustomActions.en_us.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C4149}" {
+        Code "es_es"
+        StringTableRuntime "{F9A7D2A5FC2644D0}Language/CustomActions.es_es.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C417F}" {
+        Code "fr_fr"
+        StringTableRuntime "{420F27921AA5A7D2}Language/CustomActions.fr_fr.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C4161}" {
+        Code "it_it"
+        StringTableRuntime "{C213A8A6B787242B}Language/CustomActions.it_it.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C4117}" {
+        Code "ja_jp"
+        StringTableRuntime "{D208153489F61480}Language/CustomActions.ja_jp.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C413A}" {
+        Code "ko_kr"
+        StringTableRuntime "{72B63D981ADB17BF}Language/CustomActions.ko_kr.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C4128}" {
+        Code "pl_pl"
+        StringTableRuntime "{2EC79B62A4348BC3}Language/CustomActions.pl_pl.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C41D8}" {
+        Code "pt_br"
+        StringTableRuntime "{FBB001AE9FCA4179}Language/CustomActions.pt_br.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C41CD}" {
+        Code "ru_ru"
+        StringTableRuntime "{AEF1150602B3240F}Language/CustomActions.ru_ru.conf"
+       }
+       LanguageDefinition "{5E12FC051C4C41F4}" {
+        Code "zh_cn"
+        StringTableRuntime "{FE192ECD573D4A47}Language/CustomActions.zh_cn.conf"
+       }
+      }
+     }
+    }
+   }
   }
   GameProjectConfig XBOX_ONE {
   }

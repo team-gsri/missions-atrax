@@ -7,7 +7,6 @@ PerceptionManager PerceptionManager1 : "{028DAEAD63E056BE}Prefabs/World/Game/Per
 SCR_BaseGameMode GameMode_Plain1 : "{1B76F75A3175E85C}Prefabs/MP/Modes/Plain/GameMode_Plain.et" {
  components {
   SCR_GroupsManagerComponent "{5706EC99934496F5}" {
-   Enabled 0
    m_aGroupFlags {
    }
   }

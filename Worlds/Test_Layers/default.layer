@@ -22,3 +22,35 @@ SCR_ChimeraCharacter : "{5BF44F56AF2C84EA}Prefabs/Characters/Factions/BLUFOR/RHS
  }
  coords 4942.543 28.397 11941.932
 }
+GenericEntity : "{A924939DC9CB318C}Prefabs/Props/Commercial/CabinetCardFile_01/CabinetCardFile_01_grey.et" {
+ components {
+  SCR_DestructionMultiPhaseComponent "{5624A88D86EFE8BA}" {
+   Enabled 1
+  }
+  ActionsManagerComponent "{5E1EC0695CC3CBF4}" {
+   ActionContexts {
+    UserActionContext "{5E1EC0692E964AA4}" {
+     ContextName "default"
+     Position PointInfo "{5E1EC06923BB03A4}" {
+      Offset 0 1 0
+     }
+    }
+   }
+   additionalActions {
+    GSRI_setNightAction "{5E1EC06C2D65675E}" {
+     ParentContextList {
+      "default"
+     }
+     UIInfo UIInfo "{5E1EC06EECBC11E1}" {
+      Name "Set night"
+      Description "Set night desc"
+     }
+    }
+   }
+  }
+  RplComponent "{5624A88DC2D9928D}" {
+   Enabled 1
+  }
+ }
+ coords 4939.072 28.389 11933.037
+}

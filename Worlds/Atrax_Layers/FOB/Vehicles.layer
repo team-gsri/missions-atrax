@@ -1,0 +1,53 @@
+$grp Vehicle : "{B47110AA1A806556}Prefabs/Vehicles/Wheeled/BTR70/BTR70_FIA.et" {
+ BTR70_FIA1 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4962.808 28.312 11896.957
+  angleX -0.893
+  angleY -73.134
+  angleZ 0.897
+ }
+ BTR70_FIA2 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4961.462 28.313 11892.36
+  angleX -0.893
+  angleY -73.134
+  angleZ 0.897
+ }
+ BTR70_FIA3 {
+  components {
+   SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+    m_fVehicleDestroyDamage 13602.9
+   }
+  }
+  coords 4960.412 28.341 11887.406
+  angleX -0.893
+  angleY -73.134
+  angleZ 0.897
+ }
+}
+Vehicle M1025_armed_M2HB_MERDC1 : "{DD774A8FD0989A78}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MERDC.et" {
+ components {
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 12912.9
+  }
+ }
+ coords 4939.643 28.481 11875.584
+ angleY 84
+}
+Vehicle M923A1_transport1 : "{F1FBD0972FA5FE09}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport.et" {
+ components {
+  SCR_VehicleDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 11360.7
+  }
+ }
+ coords 4959.38 28.334 11880.326
+ angleY -78
+}

@@ -1,0 +1,10 @@
+$grp SCR_DestructibleEntity : "{2FBF5DEDFA25D947}Prefabs/Structures/Walls/Concrete/ConcreteWall_01/ConcreteWall_01_6m_A.et" {
+ {
+  coords 4940.711 0.184 11852
+  angleY -172.072
+ }
+ {
+  coords 4932.193 0.39 11853.21
+  angleY -167.072
+ }
+}

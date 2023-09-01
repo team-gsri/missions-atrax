@@ -1,0 +1,10 @@
+SCR_SpawnPoint : "{0CAE96554C7FEB3D}PrefabsEditable/SpawnPoints/E_SpawnPoint_US_USMC.et" {
+ coords 4951.946 28.282 11948.002
+ angleY -168.466
+ m_Info SCR_UIInfo "{56B4CC4ECACA2C37}" {
+  Name "FOB Atrax"
+ }
+}
+SCR_LoadoutManager : "{B54D08AEA74A5354}Prefabs/MP/Managers/Loadouts/LoadoutManager_Editor.et" {
+ coords 4937.811 28.594 11904.021
+}

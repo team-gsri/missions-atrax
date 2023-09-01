@@ -1,0 +1,22 @@
+GenericEntity : "{3970981B94D3F882}Prefabs/Systems/Arsenal/ArsenalBoxes/US/ArsenalBox_USMC.et" {
+ coords 4938.018 28.594 11899.563
+}
+SCR_ChimeraCharacter : "{7F333C03AF1F712B}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et" {
+ components {
+  ActionsManagerComponent "{520EA1D2F659CE02}" {
+   additionalActions {
+    GSRI_SetLoadoutOperatorUserAction "{5E434C1691775836}" {
+     UIInfo UIInfo "{5E434C171DAFB86C}" {
+      Name "#GSRI-Test-TakeLoadout"
+     }
+     CanAggregate 1
+    }
+   }
+  }
+ }
+ coords 4936.907 28.535 11909.411
+ angleY 77
+}
+GenericEntity : "{A4D90CAA4F220CBE}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V2_FIA.et" {
+ coords 4947.406 28.241 11922.218
+}

@@ -1,0 +1,34 @@
+GenericEntity : "{09070D8EB9398742}Prefabs/Props/Military/Training/Obstacles/ObstacleVault_01.et" {
+ coords 5045.691 26.489 12065.138
+ angleY -168.174
+}
+GenericEntity : "{094DA750D7E9A807}Prefabs/Props/Military/Training/Obstacles/ObstacleLadder_01.et" {
+ coords 5032.252 26.472 12007.926
+ angleY -74.232
+}
+$grp GenericEntity : "{6B68854FD47B936F}Prefabs/Props/Military/Training/Obstacles/ObstacleBridge_01_platform.et" {
+ {
+  coords 5039.74 26.675 12038.787
+  angleY 17.024
+ }
+ {
+  coords 5038.993 26.688 12036.349
+  angleY 16.636
+ }
+}
+GenericEntity : "{6E84387991C01C6D}Prefabs/Props/Military/Training/Obstacles/ObstacleClimb_01.et" {
+ coords 5044.239 26.661 12057.698
+ angleY 12.039
+}
+GenericEntity : "{A4068A65FAD1778F}Prefabs/Props/Military/Training/Obstacles/ObstacleRunAround_01.et" {
+ coords 5035.558 26.632 12021.782
+ angleY 13.408
+}
+GenericEntity : "{B8576ECF78CDBCD7}Prefabs/Props/Military/Training/Obstacles/ObstacleBridge_01_start.et" {
+ coords 5038.056 26.655 12032.706
+ angleY -166.806
+}
+GenericEntity : "{E4B5C357EF215746}Prefabs/Props/Military/Training/Obstacles/ObstacleCrawl_01.et" {
+ coords 5044.003 26.75 12049.776
+ angleY 13.537
+}
